@@ -1,0 +1,11 @@
+config.env
+.env
+.env.*
+fleet_venv/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.conda/
+.vscode/
